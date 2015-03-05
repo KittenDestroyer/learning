@@ -1,0 +1,12 @@
+[submodule "sites/all/modules/devel"]
+	path = sites/all/modules/devel
+	url = http://git.drupal.org/project/devel.git
+	branch = 7.x-1.x
+[submodule "sites/all/modules/admin_menu"]
+	path = sites/all/modules/admin_menu
+	url = http://git.drupal.org/project/admin_menu.git
+	branch = 7.x-3.x
+[submodule "sites/all/modules/devel_themer"]
+	path = sites/all/modules/devel_themer
+	url = http://git.drupal.org/project/devel_themer.git
+	branch = master

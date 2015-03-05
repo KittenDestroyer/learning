@@ -1,0 +1,4 @@
+name = My theme
+description = This is my theme for finally learning how the fuck drupal works!!!
+core = 7.x
+base theme = bartik
